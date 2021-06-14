@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>blur_01011.png</filename>
+	<path>C:\Users\Olya\Documents\FinancePattern\images\train\blur_01011.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1894</width>
+		<height>913</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tripleTops</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>322</ymin>
+			<xmax>1315</xmax>
+			<ymax>861</ymax>
+		</bndbox>
+	</object>
+</annotation>

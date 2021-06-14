@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>The5MostPowerfulCandlestickPatterns1-30019e515b6a4ed485b04ab2cfe26157.webp</filename>
+	<path>C:\Users\Olya\Documents\FinancePattern\images\The5MostPowerfulCandlestickPatterns1-30019e515b6a4ed485b04ab2cfe26157.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1558</width>
+		<height>1047</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3lineStrike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>603</ymin>
+			<xmax>749</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+</annotation>

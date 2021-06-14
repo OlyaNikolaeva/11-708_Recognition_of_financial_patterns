@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>3972.png</filename>
+	<path>C:\Users\Olya\Documents\FinancePattern\images\train\3972.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1894</width>
+		<height>913</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tripleTops</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1229</xmin>
+			<ymin>169</ymin>
+			<xmax>1784</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>
