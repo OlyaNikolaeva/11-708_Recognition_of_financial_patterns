@@ -1,0 +1,74 @@
+item {
+    id: 1
+    name: 'bearishEngulfing'
+}
+
+item {
+    id: 2
+    name: 'bullishEngulfing'
+}
+
+item {
+    id: 3
+    name: 'shootingStar'
+}
+
+item {
+    id: 4
+    name: 'hammer'
+}
+
+item {
+    id: 5
+    name: 'bearishAbandonedBaby'
+}
+
+item {
+    id: 6
+    name: 'hangingMan'
+}
+
+item {
+    id: 7
+    name: '3whitesoldiers'
+}
+
+item {
+    id: 8
+    name: '3blackcrows'
+}
+
+item {
+    id: 9
+    name: 'morningStar'
+}
+
+item {
+    id: 10
+    name: 'morningDojiStar'
+}
+
+item {
+    id: 11
+    name: 'eveningStar'
+}
+
+item {
+    id: 12
+    name: 'eveningDojiStar'
+}
+
+item {
+    id: 13
+    name: 'headAndShoulders'
+}
+
+item {
+    id: 14
+    name: 'tripleTops'
+}
+
+item {
+    id: 15
+    name: '3lineStrike'
+}
